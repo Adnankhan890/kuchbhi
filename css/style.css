@@ -1,0 +1,187 @@
+*
+{	
+	padding:0px;
+	scroll-behavior:smooth;
+	margin:0px;
+}
+header ul
+{
+	background:black;
+	width:100%;
+	margin:0px;
+	padding:0px;
+}
+
+header li
+{
+	display:inline-block;
+	margin-top:5px;
+	color:white;
+	margin-left:200px;
+	padding-top:5px;
+	font-family:calibri;
+	font-size:20px;
+
+}
+header a
+{
+	color: #fff;
+	text-decoration:none;
+}
+
+header  a:hover
+{
+    color:beige;
+}
+img
+{
+	height:10%;
+	width:100%;
+}
+/*Banner section*/
+.banner-section h1
+{	
+	top:20%;
+	left:10%;
+	position:absolute;
+	color:lightcoral;
+	font-size:100px;
+	font-family:BioRhyme;
+}
+.project h2
+{
+	font-family:impact;
+}
+.project-images div
+{
+	width:20%;
+	display:inline-block;
+	padding:10px;
+	margin:10px;
+
+}
+.project-images h3
+{
+	letter-spacing:2px;
+	font-family:Arial;
+	text-decoration:underline;
+	color:limegreen;
+	position:absolute;
+	border:5px solid black;
+	border-radius:5px;
+	border-style:double;
+	margin-left:50px;
+}
+.project-images img:hover
+{
+	transform:scale(1.0,1.0);
+	cursor:crosshair;
+}
+/*about section*/
+.about-section div
+{
+	width:20%;
+	height:10%;
+	display:inline-block;
+	padding:5px;
+	margin:5px;
+}
+
+.about-section h2
+{
+	font-family:impact;
+}
+.about-section h3
+{
+	position:absolute;
+	margin-left:80px;
+	color:aquamarine;
+	font-family:monospace;
+	font-size:30px;
+	border:2px solid orange;
+	margin-top:250px;
+}
+.about-section font
+{
+	position:absolute;
+	font-family:Cascadia Mono SemiBold;
+	font-size:40px;
+	color:white;
+}
+.about-section button
+{
+	width:150px;
+	border-radius:5px;
+}
+.contact
+{
+	font-family:Magneto;
+	margin-left:100px;
+	padding:5px;
+	
+}
+form input
+{
+	margin-top:20px;
+	padding:10px;
+	width:500px;
+}
+form button
+{
+	font-family:calibri;
+
+	font-weight:bold;
+	padding:10px;
+	border-radius:5px;
+}
+.contact
+{
+	
+	display:inline-block;
+	margin-bottom:0px;
+
+	
+}
+.frame
+{
+	float:right;
+	display:inline-block;
+	align-self:baseline;
+	margin-right:10px;
+	font-family:magneto;
+	margin-bottom:0px;
+}
+
+.frame iframe
+{
+	border:2px solid lightcoral;
+	border-radius:5px;
+}
+
+/*Footer section*/
+.copyright 
+{
+	text-align:center;
+	background:silver;
+	padding:15px;
+	margin-top:0px;
+	font-family:Bahnschrift;
+}
+.copyright a
+{
+	text-decoration:none;
+	color:black;
+	border:2px solid black;
+	border-radius:2px;
+}
+hr
+{
+	background:mediumvioletred;
+}
+
+
+
+
+
+
+
